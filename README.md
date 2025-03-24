@@ -27,8 +27,8 @@ STEP 6:End
 ## Program:
 ```
 # Program to implement the linear regression using gradient descent.
-# Developed by: SAI SANJAY R
-# RegisterNumber: 212223040178
+# Developed by: TH KARTHIK KRISHNA
+# RegisterNumber: 212223240067
 
 import numpy as np
 import matplotlib.pyplot as plt
